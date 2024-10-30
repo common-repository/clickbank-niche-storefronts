@@ -1,0 +1,10 @@
+.cns_page_button {
+    font-size: 120%;
+    border: solid 1px #808080;
+    padding: 0.3em;
+    cursor: pointer;
+}
+.cns_page_button_selected {
+    background: #dee7eb;
+    cursor: auto;
+}
